@@ -13,7 +13,7 @@ Back-end &sdot; Flutter &sdot; Open-source.
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![flutter](https://img.shields.io/static/v1?logo=flutter&label=&message=flutter&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![dart](https://img.shields.io/static/v1?logo=dart&label=&message=dart&color=36465D&logoColor=AAA&style=flat-square&link=)
-![CC++](https://img.shields.io/static/v1?logo=c&label=&message=C/C++\&color=36465D&logoColor=AAA&style=flat-square&link=)
+![CC++](https://img.shields.io/static/v1?logo=c&label=&message=C/C++&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![lua](https://img.shields.io/static/v1?logo=lua&label=&message=lua&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![Nodejs](https://img.shields.io/static/v1?logo=nodejs&label=&message=nodejs&color=36465D&logoColor=AAA&style=flat-square&link=)
 
