@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm Rajat Yadav, currently persuing Master's of Applied Computing @ [University of Windsor](https://www.uwindsor.ca). Back-end  Flutter  Open-source.  to collaborate on projects and articles.
+I'm Rajat Yadav, currently persuing Master's of Applied Computing @ [University of Windsor](https://www.uwindsor.ca). Back-end  Flutter  Open-source. ❤️ to collaborate on projects and articles.
 
 ----
 
