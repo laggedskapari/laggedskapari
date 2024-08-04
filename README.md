@@ -18,12 +18,12 @@ Back-end &sdot; Flutter &sdot; Open-source.
 ![Nodejs](https://img.shields.io/static/v1?logo=nodejs&label=&message=nodejs&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 
-![TOOLS](https://img.shields.io/static/v1?logo=python&label=&message=TOOLS:&color=36465D&logoColor=AAA&style=flat-square&link=)
+![TOOLS](https://img.shields.io/static/v1?logo=&label=&message=TOOLS:&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![Neovim](https://img.shields.io/static/v1?logo=neovim&label=&message=neovim&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Azure](https://img.shields.io/static/v1?logo=azure&label=&message=azure&color=36465D&logoColor=AAA&style=flat-square&link=)
+![Azure](https://img.shields.io/static/v1?logo=azure&label=&message=Azure&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![AWS](https://img.shields.io/static/v1?logo=aws&label=&message=AWS&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 ----
@@ -36,9 +36,5 @@ Back-end &sdot; Flutter &sdot; Open-source.
 </a>
 <a href="https://medium.com/@laggedskapari">
   <img align="left" alt="Rajat's Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
-</a>
-
-
-
-
+</a>  
 ![Visitor Count](https://profile-counter.glitch.me/{laggedskapari}/count.svg)
