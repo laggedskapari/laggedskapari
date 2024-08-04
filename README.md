@@ -15,7 +15,7 @@ Back-end &sdot; Flutter &sdot; Open-source.
 ![dart](https://img.shields.io/static/v1?logo=dart&label=&message=dart&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![CC++](https://img.shields.io/static/v1?logo=c&label=&message=C/C++&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![lua](https://img.shields.io/static/v1?logo=lua&label=&message=lua&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Nodejs](https://img.shields.io/static/v1?logo=node&label=&message=nodejs&color=36465D&logoColor=AAA&style=flat-square&link=)
+![Nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=Node.js&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 
 ![TOOLS](https://img.shields.io/static/v1?logo=&label=&message=TOOLS:&color=36465D&logoColor=AAA&style=flat-square&link=)
