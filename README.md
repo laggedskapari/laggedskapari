@@ -15,7 +15,7 @@ Back-end &sdot; Flutter &sdot; Open-source.
 ![dart](https://img.shields.io/static/v1?logo=dart&label=&message=dart&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![CC++](https://img.shields.io/static/v1?logo=c&label=&message=C/C++&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![lua](https://img.shields.io/static/v1?logo=lua&label=&message=lua&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Nodejs](https://img.shields.io/static/v1?logo=nodejs&label=&message=nodejs&color=36465D&logoColor=AAA&style=flat-square&link=)
+![Nodejs](https://img.shields.io/static/v1?logo=node&label=&message=nodejs&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 
 ![TOOLS](https://img.shields.io/static/v1?logo=&label=&message=TOOLS:&color=36465D&logoColor=AAA&style=flat-square&link=)
@@ -36,7 +36,4 @@ Back-end &sdot; Flutter &sdot; Open-source.
 </a>
 <a href="https://medium.com/@laggedskapari">
   <img align="left" alt="Rajat's Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
-</a>  
-  
-
-![Visitor Count](https://profile-counter.glitch.me/{laggedskapari}/count.svg)
+</a>
