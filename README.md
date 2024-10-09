@@ -26,6 +26,7 @@ Back-end &sdot; Flutter &sdot; Open-source.
 ![AWS](https://img.shields.io/static/v1?logo=aws&label=&message=AWS&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 ----
+[![An image of @laggedskapari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laggedskapari)](https://holopin.io/@laggedskapari)
 
 <a href="https://x.com/laggedskapari">
   <img align="left" alt="Laggedskapari's X" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
@@ -36,4 +37,3 @@ Back-end &sdot; Flutter &sdot; Open-source.
 <a href="https://medium.com/@laggedskapari">
   <img align="left" alt="Rajat's Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
 </a>
-[![An image of @laggedskapari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laggedskapari)](https://holopin.io/@laggedskapari)
