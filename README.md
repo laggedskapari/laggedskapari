@@ -3,7 +3,7 @@
 I'm Rajat Yadav, currently persuing Master's of Applied Computing @ [University of Windsor](https://www.uwindsor.ca).  
 Back-end &sdot; Flutter &sdot; Open-source.  
 ❤️ to collaborate on projects and articles.  
-
+[![An image of @laggedskapari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laggedskapari)](https://holopin.io/@laggedskapari)
 ----
 
 ![LANGUAGES/FRAMEWORKS](https://img.shields.io/static/v1?logo=&label=&message=LANGUAGE/FRAMEWORK:&color=36465D&logoColor=AAA&style=flat-square&link=)
